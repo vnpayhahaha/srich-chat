@@ -1,0 +1,22 @@
+# SRICH CHAT 项目文章
+
+[官网](https://chat.s.rich/) · [帮助中心](https://chat.s.rich/docs) · [博客专栏](https://bug.it.com/index.php/category/srich-chat/)
+
+- [为什么我们要做 SRICH CHAT：从运营工作出发的 AI Agent 客服系统](https://bug.it.com/index.php/archives/84/) · [文档版本](articles/why-ai-agent-support.md)
+- [AI Agent 为什么可以执行：Runtime 如何把一次咨询变成可追踪的工作](https://bug.it.com/index.php/archives/91/) · [文档版本](articles/why-agents-can-execute.md)
+- [高自由度的智能客服：用 AI 设计样式，按自己的业务配置工作方式](https://bug.it.com/index.php/archives/85/) · [文档版本](articles/configuration-and-ai-design.md)
+- [SRICH CHAT 对接总览：谁负责什么，按什么顺序接入](https://bug.it.com/index.php/archives/92/) · [文档版本](docs/integration/zh-CN/index.md)
+- [FAQ 知识库接入：不依赖 AI 的知识底座，如何同步与验收](https://bug.it.com/index.php/archives/90/) · [文档版本](docs/integration/zh-CN/knowledge-feed.md)
+- [客服数据看板与会员查询：一个接口如何支持两种使用场景](https://bug.it.com/index.php/archives/86/) · [文档版本](docs/integration/zh-CN/boards.md)
+- [客服操作接口：怎样把业务按钮接进聊天，并避免重复执行](https://bug.it.com/index.php/archives/87/) · [文档版本](docs/integration/zh-CN/actions.md)
+- [事件通知接入：业务发生后，怎样成为会员聊天里的一张卡](https://bug.it.com/index.php/archives/89/) · [文档版本](docs/integration/zh-CN/events.md)
+- [邮箱接口：指定会员通知与汇总，怎样写进同一条服务会话](https://bug.it.com/index.php/archives/88/) · [文档版本](docs/integration/zh-CN/mailbox.md)
+- [iGaming 网站的在线客服应该是什么样：从会员进入到问题办完](https://bug.it.com/index.php/archives/97/) · [文档版本](articles/member-support-experience.md)
+- [在线客服接入指南：一行 script 之外，还要接好哪几件事](https://bug.it.com/index.php/archives/98/) · [文档版本](docs/integration/zh-CN/embed.md)
+- [会员身份对接：签名、一次性票与跨设备恢复](https://bug.it.com/index.php/archives/99/) · [文档版本](docs/integration/zh-CN/identity.md)
+- [信息通道：网页实时展示与聊天留底，为什么分开设计](https://bug.it.com/index.php/archives/100/) · [文档版本](docs/integration/zh-CN/broadcast.md)
+- [红包对接边界：SRICH CHAT 提供通信与配置，业务仍由你们负责](https://bug.it.com/index.php/archives/101/) · [文档版本](docs/integration/zh-CN/red-packet.md)
+- [AI 查单员对接：两个看板、一个操作与最终结果确认](https://bug.it.com/index.php/archives/102/) · [文档版本](docs/integration/zh-CN/employee-capabilities.md)
+- [对接排障指南：HTTP 200、业务成功与结果未知要分开看](https://bug.it.com/index.php/archives/103/) · [文档版本](docs/integration/zh-CN/errors.md)
+- [在线客服联调实战：从最小接入到异常验收的检查清单](https://bug.it.com/index.php/archives/104/) · [文档版本](docs/integration/zh-CN/examples.md)
+- [SRICH CHAT 对接更新摘要：会员查询、信息与邮箱、决策层和限流](https://bug.it.com/index.php/archives/105/) · [文档版本](docs/integration/zh-CN/changelog.md)
